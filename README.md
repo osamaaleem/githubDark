@@ -1,0 +1,1 @@
+# Converted VSCODE github-dark-theme (https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme) to be used in Visual Studio 2022 using Microsoft Theme Converter (https://github.com/microsoft/theme-converter-for-vs).
